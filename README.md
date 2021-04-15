@@ -1,6 +1,8 @@
 ### 🎧🍴💻
 
-Hi! I'm a developer who mostly works in Python, C, and C++. I'm interested in audio and systems programming.
+Hi! Professionally, I'm a backend developer. I work with Go, Protobuf, gRPC, and GraphQL every day.
+
+Personally, I've done projects in Python, C, and C++, and am interested in audio programming.
 
 ***
 
