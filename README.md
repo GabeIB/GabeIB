@@ -1,8 +1,8 @@
 ### 🎧🍴💻
 
-Hi! Professionally, I'm a backend developer. I work with Go, Protobuf, gRPC, and GraphQL every day.
+Hi! Professionally, I'm a backend developer. I work with Go, Postgres, Protobuf, gRPC, and GraphQL every day.
 
-Personally, I've done projects in Python, C, and C++, and am interested in audio programming.
+Personally, I've done projects in Python, C/C++, OCaml, and Java and am interested in audio programming.
 
 ***
 
